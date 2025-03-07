@@ -373,7 +373,7 @@
                 class="menu-link"
               >
                 <i class="menu-icon tf-icons bx bx-file"></i>
-                <div data-i18n="Documentation">Documentation</div>
+                <div data-i18n="Documentation">Documentation </div>
               </a>
             </li>
           </ul>
